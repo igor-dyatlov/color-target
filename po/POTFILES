@@ -1,0 +1,6 @@
+data/io.github.igor_dyatlov.ColorTarget.desktop.in
+data/io.github.igor_dyatlov.ColorTarget.appdata.xml.in
+data/io.github.igor_dyatlov.ColorTarget.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

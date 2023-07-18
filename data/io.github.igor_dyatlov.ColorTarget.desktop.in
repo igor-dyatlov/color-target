@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=color-target
+Exec=color-target
+Icon=io.github.igor_dyatlov.ColorTarget
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
